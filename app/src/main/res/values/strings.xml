@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Gabriela_Matuszewska_sr_12_30_projekt2</string>
+    <string name="todayRateText">Dzisiejszy kurs: %1$f</string>
+    <string name="yesterdayRateText">Wczorajszy kurs: %1$f</string>
+    <string name="string_yesterdayratetext">Wczorajszy kurs: %1$f</string>
+    <string name="currencyText">Kursy walut</string>
+    <string name="goldText">Kurs złota</string>
+    <string name="converter">Przelicznik walut</string>
+    <string name="todayGoldRate">"Dzisiejszy kurs złota: %1$f "</string>
+    <string name="goldRateText">Dzisiejszy kurs zlota: %1$f</string>
+    <string name="siema">siema</string>
+    <string name="buttonGold">GOld do chuja</string>
+    <string name="wartosc_pln">Wartość PLN:</string>
+    <string name="pln">PLN</string>
+    <string name="calculateFromPLN">OBLICZ</string>
+    <string name="valfromPLNtext">0</string>
+    <string name="plnFromInput">0</string>
+    <string name="toPLNtext">0</string>
+    <string name="oblicz">OBLICZ</string>
+    <string name="goldIcon">gold</string>
+    <string name="moneyicon">moneyIcon</string>
+    <string name="textview">TextView</string>
+    <string name="flagicon">flagIcon</string>
+    <string name="arrowicon">arrowIcon</string>
+    <string name="konwersja_z_pln">KONWERSJA Z PLN</string>
+    <string name="konwersja_do_pln">KONWERSJA DO PLN</string>
+</resources>

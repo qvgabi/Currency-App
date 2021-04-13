@@ -1,0 +1,4 @@
+#Tue Apr 13 21:39:44 CEST 2021
+base.0=/Users/gabimatuszewska/Desktop/technologie mobilne/Currency calculator/Gabriela_Matuszewska_sr_12_30_projekt2/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

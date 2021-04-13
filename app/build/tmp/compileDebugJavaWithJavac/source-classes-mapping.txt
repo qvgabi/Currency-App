@@ -1,0 +1,2 @@
+com/example/gabriela_matuszewska_sr_12_30_projekt2/BuildConfig.java
+ com.example.gabriela_matuszewska_sr_12_30_projekt2.BuildConfig

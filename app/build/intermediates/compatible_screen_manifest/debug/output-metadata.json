@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "com.example.gabriela_matuszewska_sr_12_30_projekt2",
+  "variantName": "debug",
+  "elements": []
+}
